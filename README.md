@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Abbut John
-- 👀 I’m interested in Gadgets
-- 🌱 I’m currently learning advanced swift
-- 💞️ I’m looking to collaborate on open works
 - 📫 mailme.abbut@gmail.com
 
 <!---
